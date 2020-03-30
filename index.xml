@@ -16,24 +16,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/about/</guid>
-      <description>La oveja negra
-[Minicuento - Texto completo.] Augusto Monterroso
-En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
-Un siglo después, el rebaño arrepentido le levantó una estatua ecuestre que quedó muy bien en el parque.
-Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pasadas por las armas para que las futuras generaciones de ovejas comunes y corrientes pudieran ejercitarse también en la escultura.</description>
+      <description>The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.  Inspired by the BE Comm Lab&amp;lsquo;s mode of operation, we provide on-demand, discipline-specific, 1-1 coaching to help students and researchers plan and carry out computational projects.
+We provide support for the following specific languages and frameworks:  Python (numpy, pandas, sklearn, &amp;hellip;) R - (RNAseq data analysis) Matlab ComSol Git (through GitHub)  We also provide support the following courses:  20.</description>
     </item>
     
     <item>
-      <title>Fellows and Staff</title>
+      <title>Members</title>
       <link>https://bedatalab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/people/</guid>
-      <description>La oveja negra
-[Minicuento - Texto completo.] Augusto Monterroso
-En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
-Un siglo después, el rebaño arrepentido le levantó una estatua ecuestre que quedó muy bien en el parque.
-Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pasadas por las armas para que las futuras generaciones de ovejas comunes y corrientes pudieran ejercitarse también en la escultura.</description>
+      <description>Fellows Dan Anderson    &amp;hellip;
+   Pablo Cardenas A native of Bogotá, Colombia, Pablo spent his undergrad at Universidad de Los Andes grappling with the frustrations of experimental and field research, and finding refuge in theoretical and computational biology. After majoring in biological sciences with a minor in bioinformatics, he left Bogotá to work in industry and academic research in Arizona, Paris, and Boston, where he learned that experiments fail in labs on every continent and of every budget.</description>
     </item>
     
     <item>
@@ -42,11 +36,7 @@ Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/qanda/</guid>
-      <description>La oveja negra
-[Minicuento - Texto completo.] Augusto Monterroso
-En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
-Un siglo después, el rebaño arrepentido le levantó una estatua ecuestre que quedó muy bien en el parque.
-Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pasadas por las armas para que las futuras generaciones de ovejas comunes y corrientes pudieran ejercitarse también en la escultura.</description>
+      <description>What do you support? For our pilot, we will help you in two broad areas. 1) To understand classwork and get through problem sets. We know that learning coding syntax and problem solving is not easy and while we will not give you all the answers, we hope to provide additional guidance. 2) We will provide brainstorming support for the code you are working on - what are ways to use computation to inform your experimental design, what is an efficient way to analyze data, what processes are used for high-throughput &amp;lsquo;omics analyses.</description>
     </item>
     
     <item>
@@ -55,11 +45,8 @@ Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/resources/</guid>
-      <description>La oveja negra
-[Minicuento - Texto completo.] Augusto Monterroso
-En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
-Un siglo después, el rebaño arrepentido le levantó una estatua ecuestre que quedó muy bien en el parque.
-Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pasadas por las armas para que las futuras generaciones de ovejas comunes y corrientes pudieran ejercitarse también en la escultura.</description>
+      <description>Coding practices The BE Communication Lab has resources on Best Practices for Coding, Organization, and Documentation, which include:
+ A discussion of Coding Mindsets A guide to Coding and Comment Style A primer on File Structure  MIT computing resources  MIT BioMicro Center computing resources: the Center provides a variety of resources and services to members of the Biology and BE departments, as well as the Koch Institute and the Center for Environmental and Health Sciences.</description>
     </item>
     
     <item>
@@ -68,9 +55,10 @@ Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/appointments/</guid>
-      <description>Appointments will happen online until further notice from MIT.
-Appointments are scheduled through the BE Comm Lab&#39;s online scheduler&amp;ndash;thanks BE Comm Lab!
-Make an appointment here!</description>
+      <description> Appointments are scheduled through the BE Comm Lab&#39;s online scheduler&amp;ndash;thanks BE Comm Lab!
+Make sure you select the BEDL calendar from the dropdown at the top of the page.
+Appointments will happen online until further notice from MIT.
+Make an appointment here. </description>
     </item>
     
   </channel>
