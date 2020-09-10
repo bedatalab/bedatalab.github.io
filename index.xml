@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/about/</guid>
-      <description>The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.  Inspired by the BE Comm Lab&amp;lsquo;s mode of operation, we provide on-demand, discipline-specific, 1-1 coaching to help students and researchers plan and carry out computational projects.
+      <description>The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.  Inspired by the BE Comm Lab&amp;rsquo;s mode of operation, we provide on-demand, discipline-specific, one-on-one coaching to help students and researchers plan and carry out computational projects.
 We provide support for the following specific languages and frameworks:  Python (numpy, pandas, sklearn, &amp;hellip;) R - (RNAseq data analysis) MATLAB COMSOL Git (through GitHub) Bash/UNIX Java  We also provide support for the following courses:  20.</description>
     </item>
     
@@ -55,7 +55,7 @@ We provide support for the following specific languages and frameworks:  Python 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bedatalab.github.io/appointments/</guid>
-      <description> Appointments are scheduled through the BE Comm Lab&#39;s online scheduler&amp;ndash;thanks BE Comm Lab!
+      <description> Appointments are scheduled through the BE Comm Lab&amp;rsquo;s online scheduler&amp;ndash;thanks BE Comm Lab!
 Make sure you select the coding calendar from the dropdown at the top of the page.
 Appointments will happen online until further notice from MIT.
 Make an appointment here. </description>
