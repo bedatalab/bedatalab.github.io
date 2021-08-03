@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BE Data Lab</title>
-    <link>https://bedatalab.github.io/</link>
+    <link>/</link>
     <description>Recent content on BE Data Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://bedatalab.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://bedatalab.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bedatalab.github.io/about/</guid>
-      <description>The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.  Inspired by the BE Comm Lab&amp;rsquo;s mode of operation, we provide on-demand, discipline-specific, one-on-one coaching to help students and researchers plan and carry out computational projects.
+      <guid>/about/</guid>
+      <description>The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.  Inspired by the BE Comm Lab&amp;lsquo;s mode of operation, we provide on-demand, discipline-specific, one-on-one coaching to help students and researchers plan and carry out computational projects.
 We provide support for the following specific languages and frameworks:  Python (numpy, pandas, sklearn, &amp;hellip;) R - (RNAseq data analysis) MATLAB Git (through GitHub) Bash/UNIX Java COMSOL (through external members)  We also provide support for the following courses:  20.</description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://bedatalab.github.io/people/</link>
+      <link>/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bedatalab.github.io/people/</guid>
-      <description>Fellows  Dan Anderson Dan Anderson is a 5th-year PhD student in Christopher Voigt’s group. Prior to being at MIT, Dan took a mere 7 years to acquire a B.A. in Molecular and Cell Biology from UC Berkeley: 4 years spent at various community colleges, 1-year crewing sailboats in the South Pacific, and 2 years at UC Berkeley. His current research focuses on high-throughput molecular diversity generation and screening methods. Dan is a self-taught programmer who enjoys integrating coding with a variety of his laboratory workflows.</description>
+      <guid>/people/</guid>
+      <description>Fellows    Divya Ramamoorthy Divya is a BE PhD student in Ernest Fraenkel’s lab. She grew up in Austin, Texas, where she earned a B.S in Biomedical Engineering and a B.A. in Plan II (Liberal Arts) from the University of Texas at Austin. As a NSF Graduate Research Fellow atMIT in Ernest Fraenkel’s lab, Divya creates integrative computational tools for multi-omic data to identify mechanisms of neurodegenerative diseases. She also works on developing Bayesian nonparametric models for sparse longitudinal datasets.</description>
     </item>
     
     <item>
       <title>Q &amp; A</title>
-      <link>https://bedatalab.github.io/qanda/</link>
+      <link>/qanda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bedatalab.github.io/qanda/</guid>
+      <guid>/qanda/</guid>
       <description>What do you support? We can help you in two broad areas. 1) To understand classwork and get through problem sets. We know that learning coding syntax and problem solving is not easy and while we will not give you all the answers, we hope to provide additional guidance. 2) We will provide brainstorming support for the code you are working on - what are ways to use computation to inform your experimental design, what is an efficient way to analyze data, what processes are used for high-throughput &amp;lsquo;omics analyses.</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://bedatalab.github.io/resources/</link>
+      <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bedatalab.github.io/resources/</guid>
+      <guid>/resources/</guid>
       <description>Coding practices The BE Communication Lab has resources on Best Practices for Coding, Organization, and Documentation, which include:
  A discussion of Coding Mindsets A guide to Coding and Comment Style A primer on File Structure  MIT computing resources  MIT BioMicro Center computing resources: the Center provides a variety of resources and services to members of the Biology and BE departments, as well as the Koch Institute and the Center for Environmental and Health Sciences.</description>
     </item>
     
     <item>
       <title>Schedule an appointment</title>
-      <link>https://bedatalab.github.io/appointments/</link>
+      <link>/appointments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bedatalab.github.io/appointments/</guid>
+      <guid>/appointments/</guid>
       <description> Appointments are scheduled through the BE Comm Lab&amp;rsquo;s online scheduler&amp;ndash;thanks BE Comm Lab!
 Make sure you select the coding calendar from the dropdown at the top of the page.
 Appointments will be exclusively online until further notice from MIT.

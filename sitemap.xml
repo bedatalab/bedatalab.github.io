@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bedatalab.github.io/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/people/</loc>
+    <loc>/people/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/qanda/</loc>
+    <loc>/qanda/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/resources/</loc>
+    <loc>/resources/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/appointments/</loc>
+    <loc>/appointments/</loc>
   </url>
   
   <url>
-    <loc>https://bedatalab.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
